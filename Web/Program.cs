@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace TBDev.CommunityWebsite.Web
+namespace de.tbdev.CommunityWebsite.Web
 {
     public class Program
     {

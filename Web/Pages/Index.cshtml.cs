@@ -2,7 +2,7 @@ using System;
 using System.Globalization;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace TBDev.CommunityWebsite.Web.Pages
+namespace de.tbdev.CommunityWebsite.Web.Pages
 {
     public class IndexModel : PageModel
     {

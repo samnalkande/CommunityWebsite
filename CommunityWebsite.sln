@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{C56325CA-C765-473B-999F-F8E180D4F8E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{3B1A47A3-7F5C-4E35-9003-A796DFD1CF6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{DA7608B9-9A1C-44FD-9B82-3EB94A895FBA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{C56325CA-C765-473B-999F-F8E180D4F8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C56325CA-C765-473B-999F-F8E180D4F8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C56325CA-C765-473B-999F-F8E180D4F8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B1A47A3-7F5C-4E35-9003-A796DFD1CF6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1A47A3-7F5C-4E35-9003-A796DFD1CF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B1A47A3-7F5C-4E35-9003-A796DFD1CF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B1A47A3-7F5C-4E35-9003-A796DFD1CF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA7608B9-9A1C-44FD-9B82-3EB94A895FBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7608B9-9A1C-44FD-9B82-3EB94A895FBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7608B9-9A1C-44FD-9B82-3EB94A895FBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7608B9-9A1C-44FD-9B82-3EB94A895FBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
